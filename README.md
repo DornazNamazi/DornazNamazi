@@ -1,4 +1,7 @@
-## Hi there 👋
+Hey there 👋
+
+I am a finishing year Computer Science student at LaSalle College with focused studies in software development, web design, data management, proven time management and great foundation in Object Oriented Programming and Java Language.
+
 
 <!--
 **DornazNamazi/DornazNamazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
