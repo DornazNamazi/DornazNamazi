@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm DornazNamazi</h1>
 <h3 align="center">👩‍💻 I’m a finishing-year Computer Science student at LaSalle College in Montreal, specializing in software development, web design, and data management.</h3>
 <h3 align="center">💡 Over the years, I’ve honed my technical skills and learned to balance tight deadlines with quality results—time management is my superpower. Whether it’s diving into data structures or implementing clean, modular code, I bring efficiency and innovation to the table.</h3>
-<h1>I love to code and explore new technologies, and here’s what’s in my toolbox:
+<h3>I love to code and explore new technologies, and here’s what’s in my toolbox:
 
 Programming Languages & Frameworks:
 C#, .NET, Java, JavaScript, C++, Python, Django, React, ASP.NET MVC, ADO.NET, Swift, PHP, HTML, CSS
 Software Development:
 OOP, JUnit, Game Development, Data Structures, Web Applications, MVC, UI/UX Development, Frontend, Backend, Full-Stack
 Tools & Technologies:
-MySQL, Oracle, WordPress</h1>
+MySQL, Oracle, WordPress</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DornazNamazi](https://github.com/DornazNamazi)
