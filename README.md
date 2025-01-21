@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm DornazNamazi</h1>
+<h1 align="center">Hi 👋, I'm Dornaz</h1>
 <h3 align="center">👩‍💻 I’m a finishing-year Computer Science student at LaSalle College in Montreal, specializing in software development, web design, and data management.</h3>
 
 💡I love to code and explore new technologies, and here’s what’s in my toolbox:
