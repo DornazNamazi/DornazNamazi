@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Dornaz</h1>
-<h3 align="center">👩‍💻 I’m a full stack developer, specializing in software development, web design, and data management.</h3>
+<h3 align="center">👩‍💻 I’m a software developer, specializing in backend development, web design, and data management.</h3>
 
 💡I love to code and explore new technologies, and here’s what’s in my toolbox:
 
 Programming Languages & Frameworks:
 C#, .NET, Java, JavaScript, C++, Python, React, ASP.NET MVC, ADO.NET, Swift, PHP, HTML, CSS
 Software Development:
-OOP, JUnit, Game Development, Data Structures, Web Applications, MVC, UI/UX Development, Frontend, Backend, Full-Stack
+OOP, JUnit, Game Development, Data Structures, Web Applications, Android and ios Development, MVC, UI/UX Development, Frontend, Backend, Full-Stack
 Tools & Technologies:
-MySQL, Oracle, WordPress
+SQL, Oracle, WordPress, Firebase, Docker
 
 - 👨‍💻 All of my projects are available at [https://github.com/DornazNamazi](https://github.com/DornazNamazi)
 
