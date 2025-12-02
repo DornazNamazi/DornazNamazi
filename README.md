@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dornaz</h1>
-<h3 align="center">👩‍💻 I’m a software developer, specializing in backend development, web design, and data management.</h3>
+<h3 align="center">👩‍💻 I’m a full stack developer, specializing in software development, web design, and data management.</h3>
 
 💡I love to code and explore new technologies, and here’s what’s in my toolbox:
 
